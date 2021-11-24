@@ -1,0 +1,27 @@
+[21-10-2021 23:30:30] NEW SESSION - Player: Visitante
+[21-10-2021 23:30:32] - Repeated Command: Key 2 pressed
+[21-10-2021 23:30:32] - Valid Command: Key 3 pressed
+[21-10-2021 23:30:32] - Valid Command: Key 4 pressed
+[21-10-2021 23:30:33] - Repeated Command: Key 7 pressed
+[21-10-2021 23:30:33] - Repeated Command: Key 8 pressed
+[21-10-2021 23:30:33] - Repeated Command: Key 9 pressed
+[21-10-2021 23:30:33] - Command Error: Key 0 pressed
+[21-10-2021 23:30:35] END SESSION
+[21-10-2021 23:30:39] NEW SESSION - Player: Visitante
+[21-10-2021 23:30:41] - Repeated Command: Key 2 pressed
+[21-10-2021 23:30:41] - Repeated Command: Key 3 pressed
+[21-10-2021 23:30:41] - Valid Command: Key 4 pressed
+[21-10-2021 23:30:41] - Repeated Command: Key 5 pressed
+[21-10-2021 23:30:42] - Valid Command: Key 6 pressed
+[21-10-2021 23:30:42] - Valid Command: Key 7 pressed
+[21-10-2021 23:30:42] - Repeated Command: Key 8 pressed
+[21-10-2021 23:30:42] - Valid Command: Key 9 pressed
+[21-10-2021 23:30:43] END SESSION
+[21-10-2021 23:30:47] NEW SESSION - Player: 123
+[21-10-2021 23:30:48] - Valid Command: Key 2 pressed
+[21-10-2021 23:30:48] - Valid Command: Key 3 pressed
+[21-10-2021 23:30:49] - Repeated Command: Key 7 pressed
+[21-10-2021 23:30:49] - Valid Command: Key 6 pressed
+[21-10-2021 23:30:50] END SESSION
+[21-10-2021 23:30:56] NEW SESSION - Player: 3123
+[21-10-2021 23:30:58] END SESSION
